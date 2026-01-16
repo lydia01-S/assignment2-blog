@@ -1,5 +1,5 @@
 ---
-layout: ../../layout/MarkDownPostLayout.astro
+layout: ../../layout/MarkdownPostLayout.astro
 title: "Screenwriting rules are dumb"
 author: Lydia
 description: "screenwriting rant"

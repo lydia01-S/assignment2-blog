@@ -1,5 +1,5 @@
 ---
-layout: "../../Layouts/MarkDownPostLayout.astro"
+layout: ../../layout/MarkdownPostLayout.astro
 title: "28 years later review"
 author: Lydia
 description: "movie review"

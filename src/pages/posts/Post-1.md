@@ -1,5 +1,5 @@
 ---
-layout: "../../Layouts/MarkDownPostLayout.astro"
+layout: ../../layout/MarkdownPostLayout.astro
 title: "Writing a new story"
 author: Lydia
 description: "The first blog post"

@@ -1,5 +1,5 @@
 ---
-layout: ../../layout/MarkDownPostLayout.astro
+layout: ../../layout/MarkdownPostLayout.astro
 title: "New years resolutions!"
 author: Lydia
 description: "my resolutions"

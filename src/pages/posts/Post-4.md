@@ -1,5 +1,5 @@
 ---
-layout: ../../layout/MarkDownPostLayout.astro
+layout: ../../layout/MarkdownPostLayout.astro
 title: "I'm learning bass!"
 author: Lydia
 description: "learnign bass"
